@@ -19,7 +19,7 @@
 ?>
 <?php
 
-$_SETTINGS['freetdspath'] = '/usr/local/freetds_0.63/etc/freetds.conf';
+$_SETTINGS['freetdspath'] = '/etc/freetds/freetds.conf';
 $_SETTINGS['odbcinipath'] = 'C:/WINDOWS/ODBC.INI';
 $_SETTINGS['detectionoff'] = false;
 
